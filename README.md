@@ -5,8 +5,9 @@ This repository contains the RAID drivers for both Intel and non-Intel based sys
 ## Usage Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/GurucharanSavanth/Windows-RAID-Drivers-for-windows.git
-   cd Windows-RAID-Drivers-for-windows
+   $ git clone https://github.com/GurucharanSavanth/Windows-RAID-Drivers-for-windows.git
+
+   $ cd Windows-RAID-Drivers-for-windows
 
 2. **Copy Drivers to USB Drive**:
    - Download the required RAID driver files from this repository.
